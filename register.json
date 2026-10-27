@@ -1,10 +1,11 @@
+
 {
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+    "dj-hilel-dahan": {
+      "repo": "https://github.com/SkyKatsDev/DJ-Hilel-Dahan",
+      "target": "skykatsdev.github.io"
     }
   },
   "openrepos.sh": {},
